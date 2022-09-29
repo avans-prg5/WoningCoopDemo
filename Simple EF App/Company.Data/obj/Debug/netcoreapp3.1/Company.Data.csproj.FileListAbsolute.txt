@@ -1,0 +1,49 @@
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.deps.json
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfoInputs.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfo.cs
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.deps.json
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csprojAssemblyReference.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfoInputs.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfo.cs
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.pdb
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.deps.json
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.dll
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.pdb
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfoInputs.cache
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfo.cs
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csproj.CoreCompileInputs.cache
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.dll
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.pdb
+D:\Avans\Programmeren 5\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csprojAssemblyReference.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.deps.json
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csprojAssemblyReference.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfoInputs.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfo.cs
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.pdb
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.deps.json
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.pdb
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfoInputs.cache
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfo.cs
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csproj.CoreCompileInputs.cache
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.deps.json
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\bin\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfoInputs.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.AssemblyInfo.cs
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.csproj.AssemblyReference.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\netcoreapp3.1\Company.Data.GeneratedMSBuildEditorConfig.editorconfig

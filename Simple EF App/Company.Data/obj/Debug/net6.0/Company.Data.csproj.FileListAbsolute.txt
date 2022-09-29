@@ -1,0 +1,12 @@
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.csproj.AssemblyReference.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfoInputs.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.AssemblyInfo.cs
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\bin\Debug\net6.0\Company.Data.deps.json
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\bin\Debug\net6.0\Company.Data.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\bin\Debug\net6.0\Company.Data.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\refint\Company.Data.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\Company.Data.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\Company.Data\obj\Debug\net6.0\ref\Company.Data.dll

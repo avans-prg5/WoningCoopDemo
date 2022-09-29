@@ -1,0 +1,298 @@
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.exe
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.csprojAssemblyReference.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfoInputs.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfo.cs
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.exe
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.deps.json
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.json
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.dev.json
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\EF.pdb
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.csprojAssemblyReference.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfoInputs.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfo.cs
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.pdb
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.genruntimeconfig.cache
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\bin\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Programmeren 5\Entity Frame work and migrations\begeleidend materiaal voor screencast\CreateDataBase_EF\src\EF\EF\obj\Debug\netcoreapp3.1\EF.csproj.CopyComplete
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.exe
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.deps.json
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.json
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.dev.json
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.pdb
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.pdb
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csprojAssemblyReference.cache
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfoInputs.cache
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfo.cs
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CopyComplete
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.pdb
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.genruntimeconfig.cache
+D:\Avans\Programmeren 5\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\Avans\Programmeren 5\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.exe
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.deps.json
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.json
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.dev.json
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.pdb
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csprojAssemblyReference.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfoInputs.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfo.cs
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CopyComplete
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.pdb
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.genruntimeconfig.cache
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Avans\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.exe
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.deps.json
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.json
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.dev.json
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.pdb
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.pdb
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csprojAssemblyReference.cache
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfoInputs.cache
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfo.cs
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CoreCompileInputs.cache
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CopyComplete
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.dll
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.pdb
+E:\Avans\Programmeren 5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.genruntimeconfig.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.exe
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.deps.json
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.json
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.runtimeconfig.dev.json
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\EF.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Configuration.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Console.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\bin\Debug\netcoreapp3.1\Company.Data.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfoInputs.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.AssemblyInfo.cs
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CoreCompileInputs.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.CopyComplete
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.dll
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.pdb
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.genruntimeconfig.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.csproj.AssemblyReference.cache
+C:\Avans\Avans\Prog5\WK5\Simple EF App\Simple EF App\EF\obj\Debug\netcoreapp3.1\EF.GeneratedMSBuildEditorConfig.editorconfig
